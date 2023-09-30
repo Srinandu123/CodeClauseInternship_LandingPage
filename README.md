@@ -1,2 +1,2 @@
-# CodeClauseInternship_LandingPage
+# LandingPage
 #### Responsive landing page using HTML CSS & JavaScript
